@@ -19,6 +19,26 @@
                 "Add Contents"
             ],
             "development versions": {}
+        },
+        "0.2": {
+            "feature": [
+                "Fonts setup"
+            ],
+            "release": true,
+            "updates": [
+                "Add Contents"
+            ],
+            "development versions": {}
+        },
+        "0.3": {
+            "feature": [
+                "Fonts setup"
+            ],
+            "release": true,
+            "updates": [
+                "Update OS support Windows"
+            ],
+            "development versions": {}
         }
     },
     "features": {

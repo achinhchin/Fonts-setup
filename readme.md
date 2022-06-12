@@ -4,7 +4,7 @@
 - [Versions](./versions.json)
 
 ### **OS support**
-- Windows 10, 11 (WSL)
+- Windows 10, 11
 - macOS
 - linux
 

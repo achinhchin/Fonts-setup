@@ -9,6 +9,9 @@
 - linux
 
 ### **Contents**
+- [Graphics](./readme.md#graphics)
+- [Programming](./readme.md#programming)
+
 ---
 
 ## **Graphics**

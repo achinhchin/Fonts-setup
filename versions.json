@@ -9,6 +9,16 @@
                 "Init"
             ],
             "development versions": {}
+        },
+        "0.1": {
+            "feature": [
+                "Fonts setup"
+            ],
+            "release": true,
+            "updates": [
+                "Add Contents"
+            ],
+            "development versions": {}
         }
     },
     "features": {

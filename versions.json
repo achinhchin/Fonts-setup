@@ -39,6 +39,16 @@
                 "Update OS support Windows"
             ],
             "development versions": {}
+        },
+        "0.4": {
+            "feature": [
+                "Fonts setup"
+            ],
+            "release": true,
+            "updates": [
+                "Update OS support Linux"
+            ],
+            "development versions": {}
         }
     },
     "features": {

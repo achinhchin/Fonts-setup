@@ -6,7 +6,7 @@
 ### **OS support**
 - Windows 10, 11
 - macOS
-- linux
+- Linux
 
 ### **Contents**
 - [Graphics](./readme.md#graphics)

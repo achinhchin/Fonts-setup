@@ -1,0 +1,21 @@
+{
+    "versions": {
+        "0.0": {
+            "feature": [
+                "Fonts setup"
+            ],
+            "release": true,
+            "updates": [
+                "Init"
+            ],
+            "development versions": {}
+        }
+    },
+    "features": {
+        "future": {},
+        "present": {
+            "Fonts setup": "0.0 -> last"
+        },
+        "past": {}
+    }
+}
